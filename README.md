@@ -5,4 +5,4 @@ Program generates a random integer 1-100 and prompts user for a guess stating if
 If correct, the program exits.
 
 Added struct and input panic from Chapter 9.
-Added unit tests from Chapter 10.
+Added unit tests from Chapter 11.
